@@ -1,0 +1,482 @@
+[
+ {
+   "Region": "US",
+   "Country": "United States",
+   "City": "New York",
+   "Sales": 1500,
+   "Discount": 150,
+   "Profit": 1350
+ },
+ {
+   "Region": "US",
+   "Country": "United States",
+   "City": "Los Angeles",
+   "Sales": 2200,
+   "Discount": 200,
+   "Profit": 2000
+ },
+ {
+   "Region": "US",
+   "Country": "United States",
+   "City": "Chicago",
+   "Sales": 1800,
+   "Discount": 100,
+   "Profit": 1700
+ },
+ {
+   "Region": "US",
+   "Country": "United States",
+   "City": "Houston",
+   "Sales": 1200,
+   "Discount": 80,
+   "Profit": 1120
+ },
+ {
+   "Region": "US",
+   "Country": "United States",
+   "City": "Miami",
+   "Sales": 2500,
+   "Discount": 300,
+   "Profit": 2200
+ },
+ {
+   "Region": "US",
+   "Country": "Canada",
+   "City": "Toronto",
+   "Sales": 1900,
+   "Discount": 150,
+   "Profit": 1750
+ },
+ {
+   "Region": "US",
+   "Country": "Canada",
+   "City": "Vancouver",
+   "Sales": 2100,
+   "Discount": 200,
+   "Profit": 1900
+ },
+ {
+   "Region": "US",
+   "Country": "Canada",
+   "City": "Montreal",
+   "Sales": 1700,
+   "Discount": 100,
+   "Profit": 1600
+ },
+ {
+   "Region": "US",
+   "Country": "Canada",
+   "City": "Calgary",
+   "Sales": 1300,
+   "Discount": 120,
+   "Profit": 1180
+ },
+ {
+   "Region": "US",
+   "Country": "Canada",
+   "City": "Ottawa",
+   "Sales": 1600,
+   "Discount": 80,
+   "Profit": 1520
+ },
+ {
+   "Region": "US",
+   "Country": "Mexico",
+   "City": "Mexico City",
+   "Sales": 2300,
+   "Discount": 250,
+   "Profit": 2050
+ },
+ {
+   "Region": "US",
+   "Country": "Mexico",
+   "City": "Guadalajara",
+   "Sales": 1800,
+   "Discount": 150,
+   "Profit": 1650
+ },
+ {
+   "Region": "US",
+   "Country": "Mexico",
+   "City": "Monterrey",
+   "Sales": 1400,
+   "Discount": 100,
+   "Profit": 1300
+ },
+ {
+   "Region": "US",
+   "Country": "Mexico",
+   "City": "Cancun",
+   "Sales": 2600,
+   "Discount": 300,
+   "Profit": 2300
+ },
+ {
+   "Region": "US",
+   "Country": "Mexico",
+   "City": "Tijuana",
+   "Sales": 1500,
+   "Discount": 120,
+   "Profit": 1380
+ },
+ {
+   "Region": "US",
+   "Country": "Brazil",
+   "City": "Sao Paulo",
+   "Sales": 2000,
+   "Discount": 180,
+   "Profit": 1820
+ },
+ {
+   "Region": "US",
+   "Country": "Brazil",
+   "City": "Rio de Janeiro",
+   "Sales": 1700,
+   "Discount": 150,
+   "Profit": 1550
+ },
+ {
+   "Region": "US",
+   "Country": "Brazil",
+   "City": "Brasilia",
+   "Sales": 1900,
+   "Discount": 200,
+   "Profit": 1700
+ },
+ {
+   "Region": "US",
+   "Country": "Brazil",
+   "City": "Salvador",
+   "Sales": 1400,
+   "Discount": 100,
+   "Profit": 1300
+ },
+ {
+   "Region": "US",
+   "Country": "Brazil",
+   "City": "Fortaleza",
+   "Sales": 2500,
+   "Discount": 300,
+   "Profit": 2200
+ },
+ {
+   "Region": "US",
+   "Country": "Australia",
+   "City": "Sydney",
+   "Sales": 1800,
+   "Discount": 150,
+   "Profit": 1650
+ },
+ {
+   "Region": "US",
+   "Country": "Australia",
+   "City": "Melbourne",
+   "Sales": 2100,
+   "Discount": 200,
+   "Profit": 1900
+ },
+ {
+   "Region": "US",
+   "Country": "Australia",
+   "City": "Brisbane",
+   "Sales": 1700,
+   "Discount": 100,
+   "Profit": 1600
+ },
+ {
+   "Region": "US",
+   "Country": "Australia",
+   "City": "Perth",
+   "Sales": 1300,
+   "Discount": 120,
+   "Profit": 1180
+ },
+ {
+   "Region": "US",
+   "Country": "Australia",
+   "City": "Adelaide",
+   "Sales": 1600,
+   "Discount": 80,
+   "Profit": 1520
+ },
+ {
+   "Region": "Europe",
+   "Country": "United Kingdom",
+   "City": "London",
+   "Sales": 2200,
+   "Discount": 200,
+   "Profit": 2000
+ },
+ {
+   "Region": "Europe",
+   "Country": "United Kingdom",
+   "City": "Manchester",
+   "Sales": 1800,
+   "Discount": 150,
+   "Profit": 1650
+ },
+ {
+   "Region": "Europe",
+   "Country": "United Kingdom",
+   "City": "Birmingham",
+   "Sales": 1900,
+   "Discount": 180,
+   "Profit": 1720
+ },
+ {
+   "Region": "Europe",
+   "Country": "United Kingdom",
+   "City": "Glasgow",
+   "Sales": 2100,
+   "Discount": 250,
+   "Profit": 1850
+ },
+ {
+   "Region": "Europe",
+   "Country": "United Kingdom",
+   "City": "Edinburgh",
+   "Sales": 2400,
+   "Discount": 300,
+   "Profit": 2100
+ },
+ {
+   "Region": "Europe",
+   "Country": "Germany",
+   "City": "Berlin",
+   "Sales": 2000,
+   "Discount": 150,
+   "Profit": 1850
+ },
+ {
+   "Region": "Europe",
+   "Country": "Germany",
+   "City": "Munich",
+   "Sales": 1700,
+   "Discount": 100,
+   "Profit": 1600
+ },
+ {
+   "Region": "Europe",
+   "Country": "Germany",
+   "City": "Hamburg",
+   "Sales": 1900,
+   "Discount": 200,
+   "Profit": 1700
+ },
+ {
+   "Region": "Europe",
+   "Country": "Germany",
+   "City": "Frankfurt",
+   "Sales": 1800,
+   "Discount": 120,
+   "Profit": 1680
+ },
+ {
+   "Region": "Europe",
+   "Country": "Germany",
+   "City": "Cologne",
+   "Sales": 2200,
+   "Discount": 250,
+   "Profit": 2000
+ },
+ {
+   "Region": "Europe",
+   "Country": "France",
+   "City": "Paris",
+   "Sales": 1800,
+   "Discount": 300,
+   "Profit": 1650
+ },
+ {
+   "Region": "Europe",
+   "Country": "France",
+   "City": "Marseille",
+   "Sales": 1900,
+   "Discount": 150,
+   "Profit": 1720
+ },
+ {
+   "Region": "Europe",
+   "Country": "France",
+   "City": "Lyon",
+   "Sales": 2100,
+   "Discount": 180,
+   "Profit": 1900
+ },
+ {
+   "Region": "Europe",
+   "Country": "France",
+   "City": "Toulouse",
+   "Sales": 2400,
+   "Discount": 200,
+   "Profit": 2100
+ },
+ {
+   "Region": "Europe",
+   "Country": "France",
+   "City": "Bordeaux",
+   "Sales": 2000,
+   "Discount": 300,
+   "Profit": 1850
+ },
+ {
+   "Region": "Europe",
+   "Country": "Italy",
+   "City": "Rome",
+   "Sales": 1700,
+   "Discount": 150,
+   "Profit": 1600
+ },
+ {
+   "Region": "Europe",
+   "Country": "Italy",
+   "City": "Milan",
+   "Sales": 1900,
+   "Discount": 100,
+   "Profit": 1700
+ },
+ {
+   "Region": "Europe",
+   "Country": "Italy",
+   "City": "Naples",
+   "Sales": 1800,
+   "Discount": 200,
+   "Profit": 1680
+ },
+ {
+   "Region": "Europe",
+   "Country": "Italy",
+   "City": "Turin",
+   "Sales": 2200,
+   "Discount": 120,
+   "Profit": 1950
+ },
+ {
+   "Region": "Europe",
+   "Country": "Italy",
+   "City": "Florence",
+   "Sales": 1800,
+   "Discount": 250,
+   "Profit": 1550
+ },
+ {
+   "Region": "Europe",
+   "Country": "South Africa",
+   "City": "Johannesburg",
+   "Sales": 1900,
+   "Discount": 300,
+   "Profit": 1600
+ },
+ {
+   "Region": "Africa",
+   "Country": "South Africa",
+   "City": "Cape Town",
+   "Sales": 2100,
+   "Discount": 100,
+   "Profit": 2000
+ },
+ {
+   "Region": "Africa",
+   "Country": "South Africa",
+   "City": "Durban",
+   "Sales": 2400,
+   "Discount": 250,
+   "Profit": 2150
+ },
+ {
+   "Region": "Africa",
+   "Country": "South Africa",
+   "City": "Pretoria",
+   "Sales": 3000,
+   "Discount": 150,
+   "Profit": 2850
+ },
+ {
+   "Region": "Africa",
+   "Country": "South Africa",
+   "City": "Port Elizabeth",
+   "Sales": 4000,
+   "Discount": 300,
+   "Profit": 3700
+ },
+ {
+   "Region": "Africa",
+   "Country": "Nigeria",
+   "City": "Lagos",
+   "Sales": 2200,
+   "Discount": 150,
+   "Profit": 2050
+ },
+ {
+   "Region": "Africa",
+   "Country": "Nigeria",
+   "City": "Abuja",
+   "Sales": 1900,
+   "Discount": 250,
+   "Profit": 1650
+ },
+ {
+   "Region": "Africa",
+   "Country": "Nigeria",
+   "City": "Kano",
+   "Sales": 1450,
+   "Discount": 100,
+   "Profit": 1350
+ },
+ {
+   "Region": "Africa",
+   "Country": "Nigeria",
+   "City": "Ibadan",
+   "Sales": 1780,
+   "Discount": 350,
+   "Profit": 1430
+ },
+ {
+   "Region": "Africa",
+   "Country": "Nigeria",
+   "City": "Port Harcourt",
+   "Sales": 2000,
+   "Discount": 500,
+   "Profit": 1500
+ },
+ {
+   "Region": "Africa",
+   "Country": "Kenya",
+   "City": "Nairobi",
+   "Sales": 1650,
+   "Discount": 400,
+   "Profit": 1250
+ },
+ {
+   "Region": "Africa",
+   "Country": "Kenya",
+   "City": "Mombasa",
+   "Sales": 1900,
+   "Discount": 200,
+   "Profit": 1700
+ },
+ {
+   "Region": "Africa",
+   "Country": "Kenya",
+   "City": "Kisumu",
+   "Sales": 3000,
+   "Discount": 600,
+   "Profit": 2400
+ },
+ {
+   "Region": "Africa",
+   "Country": "Kenya",
+   "City": "Eldoret",
+   "Sales": 5000,
+   "Discount": 800,
+   "Profit": 4200
+ },
+ {
+   "Region": "Africa",
+   "Country": "Kenya",
+   "City": "Nakuru",
+   "Sales": 3700,
+   "Discount": 500,
+   "Profit": 3200
+ }
+]
